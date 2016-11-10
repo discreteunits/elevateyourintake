@@ -1,6 +1,13 @@
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
+!web/app/plugins/amp
+!web/app/plugins/df_social_media
+!web/app/plugins/df-vc-extender
+!web/app/plugins/js_composer
+!web/app/plugins/revslider
+!web/app/plugins/wordpress-importer-OCDI
+!web/app/plugins/wordpress-popular-posts
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*

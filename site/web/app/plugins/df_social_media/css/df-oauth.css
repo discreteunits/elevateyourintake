@@ -1,0 +1,61 @@
+/* social counter widget */
+.df-widget-social-counter .df-widget-title {
+  margin-bottom: 20px;
+}
+.df-widget-social-counter ul {
+  margin: 0;
+  padding: 0;
+}
+.df-widget-social-counter ul li {
+  margin: 10px 0;
+  height: 40px;
+  list-style: none;
+}
+.df-widget-social-counter ul li a {
+  font-size: 10px;
+  line-height: 40px;
+  padding-left: 12px;
+  text-transform: uppercase;
+  color: #fff !important;
+}
+.df-widget-social-counter ul li a i.ion-social-icon-size {
+  font-size: 18px;
+  line-height: 40px;
+  display: block;
+  float: left;
+  width: 42px;
+  height: 40px;
+  text-align: center;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+.df-widget-social-counter ul li a span.pull-right {
+  line-height: 40px;
+  display: inline-block;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+}
+.df-widget-social-counter ul li.fb-social-counter {
+  background: #3b5998;
+}
+.df-widget-social-counter ul li.tw-social-counter {
+  background: #55acee;
+}
+.df-widget-social-counter ul li.gp-social-counter {
+  background: #dc4e41;
+}
+.df-widget-social-counter ul li.yt-social-counter {
+  background: #e52d27;
+}
+.df-widget-social-counter ul li.ig-social-counter {
+  background: #3f729b;
+}
+.df-widget-social-counter ul li.pin-social-counter {
+  background: #c8232c;
+}
+.df-widget-social-counter ul li.vim-social-counter {
+  background: #1ab7ea;
+}
+.df-widget-social-counter ul li.rss-social-counter {
+  background: #f26522;
+}
