@@ -1,0 +1,422 @@
+body {
+	margin: 0px;
+}
+.df-cmb-select {
+  height: 41px !important;
+  width: 100px !important;
+  vertical-align: top !important;
+  margin-right: 15px;
+  margin-top: 0 !important;
+  margin-bottom: 15px;
+}
+.df-cmb-input-styled {
+  width: 300px !important;
+  height: 41px;
+  vertical-align: top;
+}
+.review_box input.regular-text,
+.review_box select.rating-select {
+    width: 25%;
+}
+.wrapper {
+	width: 100%;
+	position: relative;
+}
+#df_magz_post .form-table {
+    margin-top: 0;
+}
+#df_magz_post .inside {
+	padding:0px;
+	margin:0px;
+}
+#df_magz_post .df-menu li {
+	margin: 0px;
+}
+#df_magz_post a:focus {
+  box-shadow: none;
+}
+#df_magz_post h4,
+#df_magz_post .cmb2-media-status .img-status img {
+	margin: 0;
+}
+
+/*#df_magz_post .cmb2-media-status .img-status .cmb2-remove-file-button {
+    left: 0;
+    position: absolute;
+    text-indent: -9999px;
+    top: 1px;
+}*/
+#df_magz_page .form-table {
+    margin-top: 0;
+}
+#df_magz_page .inside {
+  padding:0px;
+  margin:0px;
+}
+#df_magz_page .df-menu li {
+  margin: 0px;
+}
+#df_magz_page a:focus {
+  box-shadow: none;
+}
+#df_magz_page h4,
+#df_magz_page .cmb2-media-status .img-status img {
+  margin: 0;
+}
+
+/*#df_magz_page .cmb2-media-status .img-status .cmb2-remove-file-button {
+    left: 0;
+    position: absolute;
+    text-indent: -9999px;
+    top: 1px;
+}*/
+.df-menu {
+    width: 17%;
+    background-color: #F5F5F5;
+    overflow: hidden;
+    float: left;
+    min-height: 500px !important;
+}
+.df-menu ul {
+	padding:0;
+	margin: 0;
+	width:100%;
+	height: 100%; /* Full height */
+    position: relative; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+.df-menu li {
+	list-style: none;
+	border-bottom: 1px solid #E5E5E5;
+	position: relative;
+	width: 100%;
+}
+
+.df-menu li a {
+	text-decoration: none;
+	color: #222;
+	font-size: 13px;
+  display: block;
+  padding: 15px 12px;
+}
+.df-menu li.active {
+	background-color: #fff;
+}
+
+.df-content {
+    width: 83%;
+    min-height: 500px;
+    display: inline-block;
+}
+.df-section {
+    padding: 30px;
+}
+.df-row {
+    overflow: hidden;
+}
+/*.df-section-left {
+	position: relative;
+    	width: 22%;
+    	display: inline-block;
+    	float: left;
+}
+.df-section-right {
+    width: 75%;
+    float: left;
+}*/
+.df-push-top {
+	margin-top: 20px;
+}
+.df-description {
+  font-style: italic;
+  font-size: 13px;
+  color: #bbbbbb;
+  margin-top: 30px;
+}
+.df-description-notice {
+  font-style: normal;
+  color: #ab9aff;
+}
+.df-product-review {
+  width: 55%;
+  display: none;
+}
+.df-inline{
+	display: inline-flex;
+}
+.df-inline-block {
+	display: inline-block;
+}
+.df-heading {
+    font-size: 14px;
+    font-weight: 600;
+    color: #222;
+}
+.df-textarea-big {
+    width: 80%;
+    height: 200px;
+}
+.df-textarea-small {
+    width: 80%;
+    height: 100px;
+}
+.df-input-oembed {
+  width: 45%;
+}
+.hide {
+	display: none;
+}
+.df-gallery {
+  max-width: 100px;
+  max-height: 100px;
+  border: 1px solid #e9e9e9;
+  padding:5px;
+  display: inline-block;
+}
+.df-gallery img {
+  max-width: 88px;
+  max-height: 44px;
+}
+.df-btn {
+	display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+}
+.df-btn-default {
+	color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+.df-btn a {
+	text-decoration: none;
+	color: #333;
+}
+.df-btn-position {
+	position: relative;
+	top:-13px;
+}
+.df-input {
+	height: 27.5px;
+    position: relative;
+    top: -2px;
+}
+.input-percent {
+	position: relative;
+    top: -9px;
+    left: 10px;
+}
+.btn-position {
+	position: relative;
+	left:10px;
+	top: -2px;
+}
+
+
+/** Selector Image **/
+.df-selector {
+	width: 100%;
+  display: inline-table;
+}
+
+.df-selector input[type="radio"]:checked + label {
+    background-color:#ab9aff;
+}
+
+.df-selector li{
+  display: inline-block;
+}
+.df-selector input[type="radio"] {
+    margin:0;padding:0;
+    position: absolute;
+    display: none;
+}
+<!--[if !IE]> -->
+.df-selector input:checked ~.df-img{
+    border-bottom:4px solid #ab9aff;
+    opacity: 1.0;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+}
+<!-- <![endif]-->
+
+.df-img {
+  opacity: 0.8;
+}
+
+.df-post,
+.df-sidebar-position,
+.df-smartlist{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:block;
+    float: left;
+    margin:0 15px 15px 0;
+    width:112px;
+    height:92px;
+    border:1px solid #E5E5E5;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    padding:4px;
+    background-origin: content-box;
+}
+
+.df-smartlist:hover {
+    border-bottom: 4px solid #ab9aff;
+    -webkit-filter: opacity(1.0);
+       -moz-filter: opacity(1.0);
+            filter: opacity(1.0);
+}
+.df-selector ul li {
+  position: relative;
+  overflow: hidden;
+  margin-right: 5px;
+}
+.df-selector ul li:hover:before {
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  transition: transform 0.35s;
+}
+.df-selector ul li:before {
+  content: '';
+  width: 100%;
+  height: 5px;
+  background: #ab9aff;
+  position: absolute;
+  bottom: 0;
+  -webkit-transform: translate3d(0,5px,0);
+  -moz-transform: translate3d(0,5px,0);
+  -ms-transform: translate3d(0,5px,0);
+  transform: translate3d(0,5px,0);
+}
+
+/** End for Selector Images**/
+
+/** SELECT OPTION **/
+
+/*.df-styled-select select {
+   background: transparent;
+   width: 240px;
+   padding: 5px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   }*/
+.df-styled-select {
+    width: 300px;
+    height: 41px !important;
+    overflow: hidden;
+    background: url(../../images/arrow-down.png) no-repeat right 9px center #fff;
+    border: 1px solid #ccc;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-top: 1px !important;
+    vertical-align: top !important;
+	padding: 0 10px !important;
+  }
+  @media only screen and (max-width: 1400px) {
+    .df-styled-select {
+      width: 100%;
+    }
+    .cmb2-wrap input:not([type=hidden])+.button, .cmb2-wrap input:not([type=hidden])+input, .cmb2-wrap input:not([type=hidden])+select {
+      margin-left: 0 !important;
+      margin-top: 10px !important;
+    }
+    .cmb2-wrap input.cmb2-upload-file {
+      width: 100% !important;
+    }
+    .review_box_wrap a.button {
+      margin-top: 10px;
+    }
+  }
+.cmb-repeat-group-field label{
+  display: block!important;
+}
+@media only screen and (min-width:321px) and (max-width:768px) {
+	.df-menu {
+		width:28%;
+	}
+  .df-content {
+    width: 72%;
+    display: inline-block;
+  }
+  .df-section-left {
+    position: relative;
+    width: 100%;
+    /*left: 80px;*/
+    padding-bottom: 20px;
+    float: none;
+    display: block;
+  }
+  .df-section-right {
+    width: 100%;
+    float: left;
+  }
+  .df-textarea-big {
+    width: 100%;
+    height: 200px;
+  }
+   .review_box_wrap a.button,
+   .review_box_wrap a.button i {
+      line-height: 25px !important;
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width: 1400px) {
+  .df-menu {
+    width:24%;
+  }
+  .df-content {
+    width: 76%;
+    display: inline-block;
+  }
+
+}
+.review_box_wrap a.button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 0 !important;
+    vertical-align: top;
+    height: 41px;
+    line-height: 41px;
+}
+.review_box_wrap a.button i {
+  line-height: 41px;
+}
+
+.df-icon-block .vc_general.vc_element-icon, a.df-icon-block_nav .vc_general.vc_element-icon{
+  height:44px !important;
+  width: 60px !important;
+}
+a.df-icon-block_nav.vc_shortcode-link{
+  padding-left:75px !important;
+}
+a.df-icon-block_nav .vc_general.vc_element-icon{
+  top:12px;
+}
+.df-icon-block .wpb_element_title .vc_element-icon{
+  margin-top:-6px !important;
+}

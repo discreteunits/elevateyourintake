@@ -1,0 +1,1862 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-11-02 10:17+0000\n"
+"POT-Revision-Date: Tue Aug 02 2016 18:18:53 GMT+0700 (SE Asia Standard Time)"
+"\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. \n"
+"\t\t\t\t\t\t\t\t\t<a href=\"%3$s\" title=\"Log out of this account\">Log out?"
+"</a>"
+msgstr ""
+
+#: functions.php:114
+msgid "Primary"
+msgstr ""
+
+#: functions.php:171 inc/df-core/df-customizer/df-customizer.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:186
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:197
+msgid "Off Canvas Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Widgets in this area will be shown on Off Canvas"
+msgstr ""
+
+#: functions.php:224
+msgid "Job Title"
+msgstr ""
+
+#: functions.php:226 
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:68 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:69
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:228 
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:69 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:70
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:230
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:232
+msgid "Google+"
+msgstr ""
+
+#: functions.php:234
+msgid "LinkedIn"
+msgstr ""
+
+#: header.php:49
+msgid "type in your search and press enter"
+msgstr ""
+
+#: header.php:52 searchform.php:6 inc/df-core/df-config.php:216 
+#: inc/df-core/views/df-header/mobile-header.php:58
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+msgid "Pagebuilder + Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Pagebuilder"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/df-core/df-config.php:14
+msgid "Dahz Theme Panel"
+msgstr ""
+
+#: inc/df-core/df-config.php:17 inc/df-core/df-customizer/df-customizer.php:87
+msgid "General"
+msgstr ""
+
+#: inc/df-core/df-config.php:25
+msgid "Global"
+msgstr ""
+
+#: inc/df-core/df-config.php:34
+msgid "Page Transition"
+msgstr ""
+
+#: inc/df-core/df-config.php:44
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/df-core/df-config.php:53
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/df-core/df-config.php:62
+msgid "Custom Code"
+msgstr ""
+
+#: inc/df-core/df-config.php:71
+msgid "Logo"
+msgstr ""
+
+#: inc/df-core/df-config.php:80
+msgid "Header"
+msgstr ""
+
+#: inc/df-core/df-config.php:89
+msgid "Header Style 1"
+msgstr ""
+
+#: inc/df-core/df-config.php:98
+msgid "Header Style 2"
+msgstr ""
+
+#: inc/df-core/df-config.php:107
+msgid "Header Style 3"
+msgstr ""
+
+#: inc/df-core/df-config.php:116
+msgid "Header Style 4"
+msgstr ""
+
+#: inc/df-core/df-config.php:125
+msgid "Header Style 5"
+msgstr ""
+
+#: inc/df-core/df-config.php:134
+msgid "Header Style 6"
+msgstr ""
+
+#: inc/df-core/df-config.php:143 inc/df-core/df-customizer/df-customizer.php:73
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/df-core/df-config.php:152 inc/df-core/df-customizer/df-customizer.php:78
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/df-core/df-config.php:161
+msgid "Menu Options"
+msgstr ""
+
+#: inc/df-core/df-config.php:172
+msgid "Template Setting"
+msgstr ""
+
+#: inc/df-core/df-config.php:180 inc/df-core/df-megamenu/df-megamenu.php:1123
+msgid "Page"
+msgstr ""
+
+#: inc/df-core/df-config.php:189
+msgid "Archive"
+msgstr ""
+
+#: inc/df-core/df-config.php:198
+msgid "Author"
+msgstr ""
+
+#: inc/df-core/df-config.php:207
+msgid "Tag"
+msgstr ""
+
+#: inc/df-core/df-config.php:225
+msgid "Attachment"
+msgstr ""
+
+#: inc/df-core/df-config.php:234
+msgid "Blog & Post"
+msgstr ""
+
+#: inc/df-core/df-config.php:243
+msgid "404"
+msgstr ""
+
+#: inc/df-core/df-config.php:255
+msgid "Post Setting"
+msgstr ""
+
+#: inc/df-core/df-config.php:267
+msgid "Categories"
+msgstr ""
+
+#: inc/df-core/df-config.php:278 
+#: inc/df-core/df-customizer/df-customizer.php:95 
+#: inc/df-core/df-utils/df-register-footer-area.php:146
+msgid "Footer"
+msgstr ""
+
+#: inc/df-core/df-config.php:289
+msgid "Sidebars"
+msgstr ""
+
+#: inc/df-core/df-config.php:297
+msgid "Sidebar Option"
+msgstr ""
+
+#: inc/df-core/df-config.php:306
+msgid "Additional Sidebar"
+msgstr ""
+
+#: inc/df-core/df-config.php:317
+msgid "Color / Styling"
+msgstr ""
+
+#: inc/df-core/df-config.php:328
+msgid "Typography"
+msgstr ""
+
+#: inc/df-core/df-config.php:339
+msgid "Social Account"
+msgstr ""
+
+#: inc/df-core/df-config.php:348
+msgid "Account Network"
+msgstr ""
+
+#: inc/df-core/df-config.php:359 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:94 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:98 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:102 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:106 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:68
+msgid "Advertisement"
+msgstr ""
+
+#: inc/df-core/df-config.php:370
+msgid "Side Area Options"
+msgstr ""
+
+#: inc/df-core/df-config.php:381
+msgid "Backup/Restore"
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:378
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:379
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/df-core/DF-Framework.php:380
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:381
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:382
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:383
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:384
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:385
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:386
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:387
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:388
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:389
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:390
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:391
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/df-core/DF-Framework.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:393
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/df-core/DF-Framework.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:38 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:492
+msgid "Dahz Setting"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:50
+msgid "Choose a different layout for this particular post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:73
+msgid "Enable/Disable Featured Image for this Post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:78 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:79 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:170
+msgid "Enable"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:80 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:171
+msgid "Disable"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:93
+msgid "Choose the Main Category for this Post."
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:102
+msgid "Choose Sidebar Layout for this Particular Post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:124
+msgid "Choose Custom Sidebar for this post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:134
+msgid "Add a Subtitle for this post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:148
+msgid "Choose the layout for list"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:166
+msgid "Show number for this Listicle"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:179
+msgid "Add New List Item"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:181
+msgid "Listicle {#}"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:182
+msgid "Add Another List Item"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:189
+msgid "Title"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:195
+msgid "Entry Image"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:200 
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:175 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:169
+msgid "Description"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:201
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:210
+msgid "Change the ordering of your list items"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:226
+msgid ""
+"Enter Youtube, Twitter, or Instagram URL. What Sites Can I Embed From? <a "
+"href=\"http://codex.wordpress.org/Embeds\">Here</a>"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:237
+msgid "Create gallery by uploading new images or use existing ones"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:251
+msgid "Choose from Stars, Percentages or Points for review scores"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:267
+msgid "Add The Reviewed Attributes"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:276
+msgid "Choose the location for your rating"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:305
+msgid "Add Review Summary"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:317
+msgid "Choose a custom header style for this post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:339
+msgid "Enable/Disable topbar for this particular post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:357
+msgid "Choose the default layout for this post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:373
+msgid "Upload background image for this post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:381 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:737
+msgid "Set how the background image will be repeated"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:396 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:752
+msgid "Set the starting position of a background image"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:416 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:772
+msgid "Set the starting size of a background image"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:429 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:785
+msgid ""
+"Set whether a background image is fixed or scrolls with the rest of the page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:442
+msgid "Choose the Background Color for this Post."
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:453
+msgid "Enable/disable footer area in this particular post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:470
+msgid "Enable/disable sub footer area in this particular post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:502
+msgid "Choose the sidebar area in this page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:534
+msgid ""
+"Note: We recommand to not use the Unique articles feature if you plan to use "
+"ajax blocks that have sub categories or pagination. This feature will make "
+"sure that only unique articles are loaded on the initial page load."
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:547
+msgid ""
+"Allow this page to populate your posts. Simply choose one of the post to "
+"enable this"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:587
+msgid ""
+"Choose which posts to be displayed by adding post ID here. Use comma for "
+"multiple IDs"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:603
+msgid "Only show post from a Category by choosing one of your category here"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:613
+msgid ""
+"Filter the posts to only display posts from a certain category by adding "
+"category slug(s) here. Use comma for multiple categories"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:623
+msgid ""
+"Filter the posts to only display posts from a certain tag by adding category "
+"slug(s) here. Use comma for multiple tags"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:632
+msgid ""
+"filter the posts to only display posts from certain author by adding Author "
+"slug(s) here. Use comma for multiple authors"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:641 
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:663
+msgid "Choose the order of your post"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:654
+msgid "Choose the maximum number of posts to be displayed in this page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:677
+msgid "Choose a custom header style for this page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:698
+msgid "Enable/Disable topbar for this particular page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:713
+msgid "Choose the default layout for this page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:729
+msgid "Upload background image for this page"
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:797
+msgid "Choose the Background Color for this Page."
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:808
+msgid "Enable/Disable Footer Area in this Particular Page."
+msgstr ""
+
+#: inc/df-core/df-custom-metabox/df-custom-metabox.php:823
+msgid "Enable/Disable Sub Footer Area in this particular page."
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:26
+msgid "Customize Logo"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:27
+msgid "Modify the Logo theme"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:31
+msgid "Customize Color-Styling"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:32
+msgid "Modify the Color Styling"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:38 
+#: inc/df-core/df-customizer/df-customizer.php:533
+msgid "Fav Icon"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:43 
+#: inc/df-core/df-customizer/df-customizer.php:544
+msgid "Logo Header 1"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:48 
+#: inc/df-core/df-customizer/df-customizer.php:559
+msgid "Logo Header 2"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:53 
+#: inc/df-core/df-customizer/df-customizer.php:575
+msgid "Logo Header 3"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:58 
+#: inc/df-core/df-customizer/df-customizer.php:591
+msgid "Logo Header 4"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:63
+msgid "Logo Header 5 & 6 light"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:68
+msgid "Logo Header 5 & 6 dark"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:83
+msgid "Customize Background Sidearea"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:84
+msgid "Custom Background Sidearea "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:88
+msgid "General Color Styling"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:92
+msgid "Sidebar Color Styling"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:96
+msgid "Footer Color Styling"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:523
+msgid "Edit Background Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:528
+msgid "Edit Link Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:534
+msgid ""
+"For Better Result. Icons must be square, and at least 512px wide and tall."
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:545
+msgid "For Header Logo 1  Please Input File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:552
+msgid "Retina Logo Header 1"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:553
+msgid "For Retina Logo Header 1 Please Input File With @2x Before Ext File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:560
+msgid "For Desktop Logo 2 , Please Input File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:567
+msgid "Retina Logo Header 2"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:568
+msgid "For Retina Logo Header 2, Please Input File With @2x Before Ext File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:576
+msgid "For Desktop Logo Header 3 , Please Input File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:583
+msgid "Retina Logo Header 3"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:584
+msgid "For Retina Logo Header 3 , Please Input File With @2x Before Ext File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:592
+msgid "For Desktop Logo Header 4 , Please Input File "
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:599
+msgid "Retina Logo Header 4"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:605
+msgid "Logo Header 5 & 6 Light"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:611
+msgid "Retina Logo Header 5 & 6 Light"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:617
+msgid "Logo Header 5&6 Dark"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:623
+msgid "Retina Logo Header 5 & 6 Dark"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:629
+msgid " Logo Desktop For Sticky Header"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:635
+msgid "Retina Logo For Sticky Header"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:641
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:646
+msgid "Retina Logo For Mobile"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:653
+msgid "Show Or Hide Side Area"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:658
+msgid "Side Area Background"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:662
+msgid " Background Color Side Area"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:668 
+#: inc/df-core/df-customizer/df-customizer.php:856 
+#: inc/df-core/df-customizer/df-customizer.php:1010
+msgid " Background Posisition"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:684 
+#: inc/df-core/df-customizer/df-customizer.php:872 
+#: inc/df-core/df-customizer/df-customizer.php:1027
+msgid " Background Repeat"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:695 
+#: inc/df-core/df-customizer/df-customizer.php:883 
+#: inc/df-core/df-customizer/df-customizer.php:1039
+msgid " Background Attachment"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:705 
+#: inc/df-core/df-customizer/df-customizer.php:893 
+#: inc/df-core/df-customizer/df-customizer.php:1050
+msgid " Background Size"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:715
+msgid "Background Image For Side Area"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:716 
+#: inc/df-core/df-customizer/df-customizer.php:904 
+#: inc/df-core/df-customizer/df-customizer.php:1062
+msgid " Upload Image For Background Side Area"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:722
+msgid "Side Area Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:726
+msgid " Color Widget Title In Sidearea"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:731
+msgid " Color Heading Sidearea"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:737
+msgid " Color Paragraph In Sidearea"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:743
+msgid " Color Link In Side Area"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:747
+msgid "General Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:752
+msgid " Main Accent Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:757
+msgid " Body Text Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:763
+msgid " Heading Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:769
+msgid " Extra Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:776
+msgid " Blockquote Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:780
+msgid "Button Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:784
+msgid " Button Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:789
+msgid " Button Text Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:795
+msgid " Button Hover Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:802
+msgid " Button Text Hover Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:807
+msgid "Sidebars Background Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:812
+msgid "Sidebars Widget Title Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:817 
+#: inc/df-core/df-customizer/df-customizer.php:822
+msgid "Sidebar Heading Text Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:827
+msgid "Sidebar Paragraph Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:832
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:837
+msgid "Sidebar Extra Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:842
+msgid "Sidebar Border Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:846
+msgid "Footer Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:850
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:903
+msgid "Background Image For Footer"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:911
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:917
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:922
+msgid "Footer Paragraph Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:927
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:932
+msgid "Footer Border Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:937
+msgid "Footer Navigation Top Border Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:942
+msgid "Footer Navigation Top Border"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:948
+msgid "Footer Navigation Top Border Style"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:967
+msgid "Footer Navigation Bottom Border Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:972
+msgid "Footer Navigation Bottom Border"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:978
+msgid "Footer Navigation Bottom Border Style"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:996
+msgid "Sub Footer Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:1001
+msgid "Sub Footer Background Color"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:1061
+msgid "Background Image"
+msgstr ""
+
+#: inc/df-core/df-customizer/df-customizer.php:1069
+msgid "Sub Footer Text Color"
+msgstr ""
+
+#: inc/df-core/df-front-end/df-content.php:1143 
+#: inc/df-core/df-front-end/df-content.php:1392 
+#: inc/df-core/df-front-end/df-content.php:1474 
+#: inc/df-core/views/df-content/df-post-layout-4.php:65 
+#: inc/df-core/views/df-content/df-post-layout-7.php:96 
+#: inc/df-core/views/df-content/df-post-layout-8.php:99 
+#: inc/df-core/views/df-content/df-post-layout-8.php:196
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/df-core/df-front-end/df-content.php:1172
+msgid "comments"
+msgstr ""
+
+#: inc/df-core/df-front-end/df-content.php:1179 
+#: inc/df-core/df-front-end/df-content.php:1405 
+#: inc/df-core/df-front-end/df-content.php:1487 
+#: inc/df-core/views/df-content/df-post-layout-4.php:78 
+#: inc/df-core/views/df-content/df-post-layout-7.php:109 
+#: inc/df-core/views/df-content/df-post-layout-8.php:112 
+#: inc/df-core/views/df-content/df-post-layout-8.php:209 
+#: inc/df-core/views/df-content/df-social-share/social-share-1.php:66 
+#: inc/df-core/views/df-content/df-social-share/social-share-2.php:67
+msgid "Shares"
+msgstr ""
+
+#: inc/df-core/df-front-end/df-content.php:1349 
+#: inc/df-core/df-front-end/df-content.php:1435 
+#: inc/df-core/df-front-end/df-content.php:1520 
+#: inc/df-core/views/df-content/df-post-layout-7.php:138
+msgid "views"
+msgstr ""
+
+#: inc/df-core/df-front-end/df-script-option.php:24
+msgid "Hey! You have clicked the button!"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:78 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#. translators: %s: title of menu item in draft status
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:82 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:95
+msgid "sub item"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:110 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:106
+msgid "Move up"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:123 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:119
+msgid "Move down"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:125 
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:127 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:121 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:138 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:132
+msgid "URL"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:145 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:139
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:151 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:145
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:158 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:152
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:163 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:157
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:169 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:163
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:177 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:201
+msgid "Category Mega Dropdown"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:215
+msgid "Tips: if use mega dropdown, do not add sub menu items."
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:221
+msgid "Megamenu Style"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:234
+msgid "Style for mega dropdown with sub category"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:244 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:178
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:257 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:191 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:138 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:357 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-custom-walker-admin.php:258 
+#: inc/df-core/df-megamenu/df-walker-admin-topbar.php:192
+msgid "Cancel"
+msgstr ""
+
+#: inc/df-core/df-megamenu/df-megamenu.php:116
+msgid "Top Bar"
+msgstr ""
+
+#: inc/df-core/df-theme-options/df-theme-options.php:341 
+#: inc/df-core/views/admin/df-theme-options/df-theme-one-click-demo-instal.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/df-core/df-theme-options/df-theme-options.php:612
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/df-core/df-theme-options/df-theme-options.php:670
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/df-core/df-theme-options/df-theme-options.php:706
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/df-core/df-utils/df-amp-custom.php:272
+msgid "Next: "
+msgstr ""
+
+#: inc/df-core/df-utils/df-amp-custom.php:334
+msgid "SCORE"
+msgstr ""
+
+#: inc/df-core/df-utils/df-amp-custom.php:340
+msgid "REVIEW"
+msgstr ""
+
+#: inc/df-core/df-utils/df-amp-custom.php:347 
+#: inc/df-core/views/df-content/df-review/review-percentage.php:7 
+#: inc/df-core/views/df-content/df-review/review-percentage.php:75 
+#: inc/df-core/views/df-content/df-review/review-point.php:6 
+#: inc/df-core/views/df-content/df-review/review-stars.php:6
+msgid "SUMMARY & RESULTS"
+msgstr ""
+
+#: inc/df-core/df-utils/meta-custom-tax.php:7 
+#: inc/df-core/df-utils/meta-custom-tax.php:15
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/df-core/df-utils/meta-custom-tax.php:10
+msgid "categories:"
+msgstr ""
+
+#: inc/df-core/df-utils/meta-custom-tax.php:18
+msgid "Tags:"
+msgstr ""
+
+#: inc/df-core/views/df-content-view.php:108 
+#: inc/df-core/views/df-content-view.php:125 
+#: inc/df-core/views/df-content-view.php:190
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/df-core/views/df-content-view.php:428
+msgid "Show Comments"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:90
+msgid "For Your Advertisement ( ADS 125 )"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:144 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:86 
+#: inc/df-core/df-utils/df-widget/df-widget-author.php:109 
+#: inc/df-core/df-utils/df-widget/df-widget-block.php:121 
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:273 
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:159
+msgid "Title:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:149 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:90
+msgid "Image URL:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:153 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:94
+msgid "Alt:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement125.php:157 
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:98
+msgid "Link URL:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:64
+msgid "For Your Advertisement ( ADS 300 )"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-advertisement300.php:102
+msgid "Google Code:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-author.php:106
+msgid "Our Authors"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-author.php:117
+msgid "Limit:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-block.php:114
+msgid "Widget Block"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-block.php:125
+msgid "Category IDs: ( separated by comma. ex: 1, 4, 5 )"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-block.php:129
+msgid "Number Posts to Show: "
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-block.php:133
+msgid "Block Style : "
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:270
+msgid "Most Popular"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:282 
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:230
+msgid "Number Post to Show:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:294
+msgid "Display by:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:309 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:315
+msgid "Week"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-most-pop.php:321
+msgid "Month"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:220
+msgid "Popular, Trending, Hot"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:223
+msgid "Title: ( Separated by comma. Ex: Popular, Trending, Hot )"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:241
+msgid "Popular"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:247
+msgid "Trending"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-pop-trend.php:253
+msgid "Hot"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-recent-review.php:219
+msgid "Recent Review"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-recent-review.php:224
+msgid "Title: "
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-recent-review.php:228
+msgid "Number Review to Show: "
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-recent-review.php:240
+msgid "Style Review:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:152
+msgid "Slide Post"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:163
+msgid "Show by:"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:170
+msgid "Number Post to Show: "
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:174
+msgid "category IDs: (separated by comma. ex: 1, 4, 5)"
+msgstr ""
+
+#: inc/df-core/df-utils/df-widget/df-widget-slide.php:178
+msgid "Post IDs: (separated by comma. ex: 1, 4, 5)"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:305
+msgid "To infinity and beyond"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:314
+msgid ""
+"We&rsquo;ve changed this option to a click-to-scroll version for you since "
+"you have footer widgets in Appearance &rarr; Widgets, or your theme uses "
+"click-to-scroll as the default behavior."
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:320
+msgid "Scroll Infinitely"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:320
+#, php-format
+msgid "(Shows %s posts on each load)"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:555
+msgid "Older posts"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:572
+#, php-format
+msgid "Older %s"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:589
+msgid "Scroll back to top"
+msgstr ""
+
+#: inc/df-core/plugins/infinite-transporter/transporter.php:1221
+#, php-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:77
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:114
+msgid "Secondary Image"
+msgstr ""
+
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:159
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:393 
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:394
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: inc/df-core/plugins/multiple-post-thumbnail/multi-post-thumbnails.php:410
+#, php-format
+msgid "Remove %s"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-404-layout.php:26
+msgid "go to homepage"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-404-layout.php:47 
+#: inc/df-core/views/df-content/df-404-layout.php:113 
+#: inc/df-core/views/df-content/df-404-layout.php:178 
+#: inc/df-core/views/df-content/df-404-layout.php:233 
+#: inc/df-core/views/df-content/df-404-layout.php:299 
+#: inc/df-core/views/df-content/df-404-layout.php:376 
+#: inc/df-core/views/df-content/df-404-layout.php:441
+msgid "Latest Articles"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: inc/df-core/views/df-content/df-page-default.php:47 
+#: inc/df-core/views/df-content/df-page-pagebuilder-witharchive.php:19 
+#: inc/df-core/views/df-content/df-page-pagebuilder.php:36 
+#: inc/df-core/views/df-content/df-post-layout-1.php:119 
+#: inc/df-core/views/df-content/df-post-layout-2.php:119 
+#: inc/df-core/views/df-content/df-post-layout-3.php:145 
+#: inc/df-core/views/df-content/df-post-layout-4.php:227 
+#: inc/df-core/views/df-content/df-post-layout-5.php:146 
+#: inc/df-core/views/df-content/df-post-layout-6.php:141 
+#: inc/df-core/views/df-content/df-post-layout-7.php:196 
+#: inc/df-core/views/df-content/df-post-layout-8.php:317 
+#: inc/df-core/views/df-content/df-post-layout-9.php:110
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-page-default.php:52 
+#: inc/df-core/views/df-content/df-page-pagebuilder-witharchive.php:23 
+#: inc/df-core/views/df-content/df-page-pagebuilder.php:40 
+#: inc/df-core/views/df-content/df-post-layout-1.php:123 
+#: inc/df-core/views/df-content/df-post-layout-2.php:123 
+#: inc/df-core/views/df-content/df-post-layout-3.php:150 
+#: inc/df-core/views/df-content/df-post-layout-4.php:231 
+#: inc/df-core/views/df-content/df-post-layout-5.php:151 
+#: inc/df-core/views/df-content/df-post-layout-6.php:145 
+#: inc/df-core/views/df-content/df-post-layout-7.php:200 
+#: inc/df-core/views/df-content/df-post-layout-8.php:322 
+#: inc/df-core/views/df-content/df-post-layout-9.php:114
+msgid "Pages:"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-pagination-single.php:36
+msgid "NEXT STORY"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-pagination-single.php:72
+msgid "PREV STORY"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-search-layout-1.php:22 
+#: inc/df-core/views/df-content/df-search-layout-1.php:137 
+#: inc/df-core/views/df-content/df-search-layout-2.php:22 
+#: inc/df-core/views/df-content/df-search-layout-2.php:137 
+#: inc/df-core/views/df-content/df-search-layout-3.php:23 
+#: inc/df-core/views/df-content/df-search-layout-3.php:119 
+#: inc/df-core/views/df-content/df-search-layout-4.php:23 
+#: inc/df-core/views/df-content/df-search-layout-4.php:121 
+#: inc/df-core/views/df-content/df-search-layout-5.php:23 
+#: inc/df-core/views/df-content/df-search-layout-5.php:141 
+#: inc/df-core/views/df-content/df-search-layout-6.php:23 
+#: inc/df-core/views/df-content/df-search-layout-6.php:127
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-smart-list-1.php:12 
+#: inc/df-core/views/df-content/df-smart-list-3.php:5 
+#: inc/df-core/views/df-content/df-smart-list-3.php:57 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-smart-list-1.php:13 
+#: inc/df-core/views/df-content/df-smart-list-3.php:6 
+#: inc/df-core/views/df-content/df-smart-list-3.php:58 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: inc/df-core/views/df-content/df-top-post-layout-1.php:54 
+#: inc/df-core/views/df-content/df-top-post-layout-2.php:53 
+#: inc/df-core/views/df-content/df-top-post-layout-3.php:53 
+#: inc/df-core/views/df-content/df-top-post-layout-4.php:53
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: inc/df-core/views/df-content/related-post.php:10
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/df-core/views/df-footer/df-footer-1.php:64 
+#: inc/df-core/views/df-footer/df-footer-1.php:111 
+#: inc/df-core/views/df-footer/df-footer-10.php:40 
+#: inc/df-core/views/df-footer/df-footer-10.php:87 
+#: inc/df-core/views/df-footer/df-footer-11.php:83 
+#: inc/df-core/views/df-footer/df-footer-11.php:130 
+#: inc/df-core/views/df-footer/df-footer-12.php:99 
+#: inc/df-core/views/df-footer/df-footer-12.php:146 
+#: inc/df-core/views/df-footer/df-footer-13.php:50 
+#: inc/df-core/views/df-footer/df-footer-13.php:97 
+#: inc/df-core/views/df-footer/df-footer-2.php:55 
+#: inc/df-core/views/df-footer/df-footer-2.php:103 
+#: inc/df-core/views/df-footer/df-footer-3.php:83 
+#: inc/df-core/views/df-footer/df-footer-3.php:130 
+#: inc/df-core/views/df-footer/df-footer-4.php:80 
+#: inc/df-core/views/df-footer/df-footer-4.php:127 
+#: inc/df-core/views/df-footer/df-footer-5.php:80 
+#: inc/df-core/views/df-footer/df-footer-5.php:127 
+#: inc/df-core/views/df-footer/df-footer-6.php:77 
+#: inc/df-core/views/df-footer/df-footer-6.php:124 
+#: inc/df-core/views/df-footer/df-footer-7.php:46 
+#: inc/df-core/views/df-footer/df-footer-7.php:93 
+#: inc/df-core/views/df-footer/df-footer-8.php:43 
+#: inc/df-core/views/df-footer/df-footer-8.php:90 
+#: inc/df-core/views/df-footer/df-footer-9.php:43 
+#: inc/df-core/views/df-footer/df-footer-9.php:90 
+#: inc/df-core/views/df-header/header-1.php:97 
+#: inc/df-core/views/df-header/header-2.php:96 
+#: inc/df-core/views/df-header/header-3.php:119 
+#: inc/df-core/views/df-header/header-4.php:105 
+#: inc/df-core/views/df-header/header-5.php:131 
+#: inc/df-core/views/df-header/header-6.php:126
+msgid "Add A Menu"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Field.php:978 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:86 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:118 
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:137 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:139 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:140 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:749 
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:864 
+#: inc/df-core/views/admin/df-custom-metabox/df-init-cmb2-type.php:658
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/CMB2_Types.php:926 
+#: inc/df-core/views/admin/df-custom-metabox/df-init-cmb2-type.php:569
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/df-core/plugins/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:42 
+#: inc/df-core/views/admin/df-theme-options/df-theme-one-click-demo-instal.php:53
+#:  inc/df-core/views/admin/df-theme-options/df-theme-support.php:44
+msgid "Version"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:48 
+#: inc/df-core/views/admin/df-theme-options/df-theme-one-click-demo-instal.php:57
+#:  inc/df-core/views/admin/df-theme-options/df-theme-support.php:50
+msgid "Install Demo"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:52 
+#: inc/df-core/views/admin/df-theme-options/df-theme-one-click-demo-instal.php:58
+#:  inc/df-core/views/admin/df-theme-options/df-theme-support.php:53
+msgid "Support"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:56 
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:58 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:57 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:59
+msgid "Documentation"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:57 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:58
+msgid ""
+"This is where you can learn about this theme, the documentation covers basic "
+"guide such as installation, settings and theme's feature."
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:61 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:62
+msgid "Support Forum"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:62 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:63
+msgid ""
+"this is where we provide support to you. feel free to ask questions or drop "
+"by to say hi, our developers will be glad to hear from you!."
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:63 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:64
+msgid "Community Forum"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:66 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:67
+msgid "Follow Us"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-home.php:67 
+#: inc/df-core/views/admin/df-theme-options/df-theme-support.php:68
+msgid ""
+"Get the latest news of Onfleek development from us by liking & following our "
+"FB and Twitter page."
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-one-click-demo-instal.php:26
+#:  inc/df-core/views/admin/df-theme-options/df-theme-support.php:17
+msgid "Welcome to OnFleek!"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:59 
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:93
+msgid "Save Options"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:60 
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:94
+msgid "Reset Section"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:61 
+#: inc/df-core/views/admin/df-theme-options/df-theme-options.php:95
+msgid "Reset All"
+msgstr ""
+
+#: inc/df-core/views/admin/df-theme-options/tab-pane/demo-import/demo-import.php:30
+msgid "Import Theme Settings"
+msgstr ""
+
+#. Name of the theme
+msgid "onfleek"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Onfleek comes to fulfil your need of a contemporary creative magazine theme. "
+"It brings out the flexible, dynamic, and creative culture that explores your "
+"interests without boundaries. Designed with clean code and powered with new "
+"technology such as AMP and Built in Social OAuth, Onfleek is light, fast, "
+"and easy-to-use that lets you to slay on mobile and desktop search rank."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://dahztheme.com/demo/onfleek/"
+msgstr ""
+
+#. Author of the theme
+msgid "Dahz Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://daffyhazan.com"
+msgstr ""

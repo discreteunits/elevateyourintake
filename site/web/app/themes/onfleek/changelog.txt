@@ -1,0 +1,52 @@
+Onfleek v 1.5.0
+
+- Fixed: Image Cropping System
+- Fixed: page category background in boxed layout
+- Improvement :  HTML is allowed in listicle
+- Updated: JSON Google API
+- Fixed: Sidebar in mobile view
+- Improvement: Demo import efficiency
+- New: Advertising area in AMP layout
+- Updated: Google font JSON
+- Auto Post Facebook & Twitter Option
+- Bug Fixing and Performance Optimization
+
+Onfleek v 1.4.0
+
+- Fixed google font
+- Fixed AMP
+- Fixed rich snippets for review
+- Fixed category header sort
+- Fixed infinite load for grid layout
+
+
+Onfleek v 1.3.0
+
+- Added google structured data for NewsArticle
+- Removed Ads Section if there's no Ads Uploaded
+- Fixed lightbox issue
+- Added Compatibility with WP 4.6
+- Limit Post title character in sticky header
+
+Onfleek v 1.2.0
+
+- Added new feature: unique article on page
+- Improving excerpt on post archive
+- Improving query load 
+- Fixing image attachment page
+- Fixing side area menu 
+- Fix image crop on shortcode post carousel 6 
+
+Onfleek v 1.1.0
+
+Fixed: 
+- Styling for Lazyload and Footer Menu
+- Facebook OAuth 
+- Removed : Language selection Option ( Waiting for WPML Certification )
+- Updated : String Translation
+	  : Jquery Library
+
+New Features:
+- Listicle & Review are now working on AMP. 
+- Autoplay Option for Post Carousel (category pages and shortcodes)
+- Featured Image on Archives and Shortcodes are now clickable.

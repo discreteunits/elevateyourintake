@@ -1,0 +1,308 @@
+/* line 1, ../sass/simplelightbox.scss */
+.sl-overlay {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #e4e4e4;
+  opacity: 1;
+  display: none;
+  z-index: 1006;
+}
+
+/* line 12, ../sass/simplelightbox.scss */
+.sl-wrapper {
+  z-index: 1000;
+}
+/* line 14, ../sass/simplelightbox.scss */
+.sl-wrapper button {
+  border: 0 none;
+  background: transparent;
+  font-size: 24px;
+  padding: 0;
+  cursor: pointer;
+}
+/* line 20, ../sass/simplelightbox.scss */
+.sl-wrapper button:hover {
+  opacity: 0.7;
+}
+/* line 25, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-close {
+  display: none;
+  position: fixed;
+  right: 20px;
+  top: 6px;
+  z-index: 1015;
+  font-size: 32px;
+}
+/* line 33, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-counter {
+  display: none;
+  position: fixed;
+  top: 25px;
+  right: ~"calc(25% - 105px)";
+  /* font-family: 'Lato'; */
+  font-size: 13px;
+  color: #000;
+  letter-spacing: 2;
+  width: 75px;
+  z-index: 1015;
+}
+/* line 41, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-navigation {
+  width: 100%;
+  display: none;
+}
+/* line 44, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-navigation button {
+  position: fixed;
+  top: 0;
+  height: 50px;
+  width: 60px;
+  line-height: 30px;
+  text-align: center;
+  display: block;
+  z-index: 10015;
+  font-size: 16px;
+  color: #000;
+  background: #fff;
+  opacity: .6;
+}
+.sl-wrapper .sl-navigation button:hover {
+  opacity: 1;
+}
+/* line 55, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-navigation button.sl-next {
+  right: 25%;
+}
+/* line 59, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-navigation button.sl-prev {
+  right: ~"calc(25% + 60px)";
+}
+/* line 65, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image {
+  position: fixed;
+  -ms-touch-action: none;
+  touch-action: none;
+  z-index: 10000;
+}
+/* line 70, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image img {
+  margin: 0;
+  padding: 0;
+}
+/* line 75, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image iframe {
+  border: 0 none;
+  background: #000;
+}
+/* line 79, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image .sl-caption {
+  display: none;
+  padding: 10px;
+  color: #fff;
+  background: #000;
+  opacity: 0.8;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+/* line 90, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image .sl-caption.pos-top {
+  bottom: auto;
+  top: 0;
+}
+/* line 95, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image .sl-caption.pos-outside {
+  bottom: auto;
+}
+/* line 100, ../sass/simplelightbox.scss */
+.sl-wrapper .sl-image .sl-download {
+  display: none;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  color: #fff;
+  z-index: 1005;
+}
+
+/* line 111, ../sass/simplelightbox.scss */
+.sl-spinner {
+  display: none;
+  border: 5px solid #333;
+  border-radius: 40px;
+  height: 40px;
+  left: 50%;
+  margin: -20px 0 0 -20px;
+  opacity: 0;
+  position: fixed;
+  top: 50%;
+  width: 40px;
+  z-index: 1007;
+  -webkit-animation: pulsate 1s ease-out infinite;
+  -moz-animation: pulsate 1s ease-out infinite;
+  -ms-animation: pulsate 1s ease-out infinite;
+  -o-animation: pulsate 1s ease-out infinite;
+  animation: pulsate 1s ease-out infinite;
+}
+
+/* line 130, ../sass/simplelightbox.scss */
+.sl-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+@keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+@-moz-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+@-o-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+@-ms-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+
+/* css fajar */
+.df-lightbox-article-detail-wrapper {
+    position: absolute;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    padding: 25px 30px;
+}
+.df-lightbox-article-title {
+    /* font-family: 'Oswald'; */
+    margin-top: 70px;
+}
+.df-lightbox-article-description {
+    /* font-family: 'Lato'; */
+    margin-top: 40px;
+}
+.df-lightbox-article-share {
+    margin-top: 40px;
+}
+.df-social-sharing-buttons.df-lightbox-sharing {
+    background: transparent;
+}
+.df-lightbox-ads {
+    width: 300px;
+    height: 250px;
+    background: #cdcdcd;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+@media ( max-width: 769px ) {
+  .sl-wrapper .sl-close {
+    display: none;
+    position: fixed;
+    right: 20px;
+    top: 12px;
+    z-index: 1015;
+    font-size: 32px;
+  }
+  .df-lightbox-ads {
+      display: none;
+  }
+  .df-lightbox-article-detail-wrapper {
+      position: absolute;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      height: 25%;
+      padding: 10px 30px;
+    }
+  .df-lightbox-article-title {
+      /* font-family: 'Oswald'; */
+      margin-top: 50px;
+  }
+  .df-lightbox-article-description {
+      /* font-family: 'Lato'; */
+      margin-top: 20px;
+  }
+  .sl-wrapper .sl-navigation button.sl-next {
+    top: ~"calc(75% - 50px)";
+    right: 0;
+  }
+  .sl-wrapper .sl-navigation button.sl-prev {
+    left: 0;
+    top: ~"calc(75% - 50px)";
+  }
+  .sl-wrapper .sl-counter {
+    display: none;
+    position: fixed;
+    top: ~"calc(75% - 35px)";
+    right: ~"calc(50% - 22.5px)";
+    /* font-family: 'Lato'; */
+    font-size: 13px;
+    color: #000;
+    letter-spacing: 2;
+    width: 45px;
+    z-index: 1015;
+  }
+}
