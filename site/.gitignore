@@ -8,6 +8,7 @@ web/app/plugins/*
 !web/app/plugins/revslider
 !web/app/plugins/wordpress-importer-OCDI
 !web/app/plugins/wordpress-popular-posts
+!web/app/plugins/wp-missed-schedule
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*

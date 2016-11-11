@@ -40,8 +40,9 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/soil": "3.7.1",
-    "wpackagist-plugin/wordpress-seo": "3.7.1",
-    "wpackagist-plugin/custom-post-type-ui": "1.4.3"
+    "wpackagist-plugin/wordpress-seo": "3.8",
+    "wpackagist-plugin/custom-post-type-ui": "1.4.3",
+    "wpackagist-plugin/wp-pexels": "1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
