@@ -9,6 +9,7 @@ web/app/plugins/*
 !web/app/plugins/wordpress-importer-OCDI
 !web/app/plugins/wordpress-popular-posts
 !web/app/plugins/wp-missed-schedule
+!web/app/plugins/elevated_google_analytics
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
